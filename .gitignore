@@ -1,0 +1,17 @@
+## Artifacts
+*.class
+
+## Package Files
+*.jar
+target
+
+## IntelliJ
+.idea
+*.iml
+
+## Logs
+*.log
+
+## Temp
+*~
+.#*
